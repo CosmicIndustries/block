@@ -67,9 +67,9 @@ If you want to block **everything** and allow only specific domains (like those 
 
 3. **Manage DNS Resolution**:
    If your system supports domain-based blocking, configure DNS filtering or domain-based firewall rules. Otherwise, you'll need to manually resolve the domains to their IPs and allow only those IP ranges.
-```
-Forward all peer traffic - Ensure all traffic from the peer is tunneled through the router's wireguard interface by adding an Allowed IP of 0.0.0.0/0
-```
+
+*Forward all peer traffic - Ensure all traffic from the peer is tunneled through the router's wireguard interface by adding an Allowed IP of 0.0.0.0/0
+
 By following this method, you will effectively block everything except the domains or services explicitly allowed in your configuration, such as Netflix, Disney, or Roku.
 ```
 👋
