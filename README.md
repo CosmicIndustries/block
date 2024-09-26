@@ -39,7 +39,7 @@ This will create a new file `mergedBlockList.txt` containing the entries from al
 
 ---
 
-## Optional: Blocking Everything Except Certain Domains
+## Optional: Blocking Everything Except Certain Domains (allowList)
 
 If you want to block **everything** and allow only specific domains (like those in the original allow lists), this would require setting up a **whitelist policy** in your firewall or filtering system. Here's a general approach:
 
