@@ -1,0 +1,9 @@
+0.0.0.0 *.adrise.tv
+0.0.0.0 *.ifood.tv
+0.0.0.0 *.pluto.tv 
+0.0.0.0 cloudfront.tubi.video
+0.0.0.0 manifest.auditude.com
+0.0.0.0 pcor*.manifest.auditude.com
+0.0.0.0 siloh-*.plutotv.net
+0.0.0.0 sslimghost.device.screenmedia.net
+0.0.0.0 videos-fms.jwpsrv.com
