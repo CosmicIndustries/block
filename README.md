@@ -1,7 +1,3 @@
-You're right, the original description was a bit misleading. These blocklists specifically target certain domains to block, rather than allowing everything except for what's explicitly mentioned in the blocklists. Below is the corrected `README.md` to reflect the actual behavior, as well as an optional section showing how you can block everything except for certain domains using a different approach (such as a whitelist policy).
-
----
-
 # Block Lists
 
 This folder contains several block lists used to **explicitly block** access to specific services or content platforms. Each file within this folder represents a list of domains or IP addresses that are denied access based on the service or platform.
