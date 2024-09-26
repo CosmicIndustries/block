@@ -70,6 +70,6 @@ If you want to block **everything** and allow only specific domains (like those 
 
 By following this method, you will effectively block everything except the domains or services explicitly allowed in your configuration, such as Netflix, Disney, or Roku.
 ```
-
+👋
 Let me know if you'd like help setting up one of these methods!
 ```
